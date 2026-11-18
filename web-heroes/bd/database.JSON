@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Homem de Ferro",
+    "poder": "Armadura de alta tecnologia e intelecto genial",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 2,
+    "nome": "Batman",
+    "poder": "Mestre em artes marciais, estratégia e recursos ilimitados",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 3,
+    "nome": "Tempestade",
+    "poder": "Manipulação climática e controle elemental",
+    "universo": "Marvel",
+    "ativo": false
+  },
+  {
+    "id": 4,
+    "nome": "Homem Aranha",
+    "poder": "Soltar teias",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 5,
+    "nome": "Arqueiro Verde",
+    "poder": "Flechas de raio",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 6,
+    "nome": "Superman",
+    "poder": "poderes ilimitados",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 7,
+    "nome": "Sentry",
+    "poder": "Poder de 3 milhões de sois explodindo ",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 8,
+    "nome": "Homem Borracha",
+    "poder": "transformo,controle extremo de materia ",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 9,
+    "nome": "Hulk",
+    "poder": "Fúria incontrolavel,imortalidade ",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 10,
+    "nome": "Jean Grey",
+    "poder": "Controle mental nivel Omega ",
+    "universo": "Marvel",
+    "ativo": true
+  }
+]
